@@ -1,0 +1,65 @@
+@charset "UTF-8";
+
+/* CSS Document */
+
+body {
+	background-image: url(../img/bg.jpg);
+	background-position: top center;
+	background-size: contain;
+	padding-top: 5rem;
+}
+
+.bg {
+	image-orientation: fixed;
+}
+
+.officelogo {
+	margin: 4%;
+}
+
+.bannerad {
+	margin-top: 3rem;
+}
+
+.jborder {
+	border: 1px solid black;
+}
+
+footer {
+	text-align: center;
+	padding-top: 10px;
+	background-color: aliceblue;
+}
+
+h1 {
+	width: 70rem;
+}
+
+.jumbotron p {
+	width: 70rem;
+}
+
+.row p {
+	font-size: 16px;
+}
+
+.active {
+	background-color: white;
+}
+
+.glyphicon {
+	padding-right: 3px;
+}
+
+.aboutimg {
+	margin-left: 5px;
+}
+
+.aboutpg {
+	padding-right: 10px;
+	padding-top: 5px;
+}
+
+.btn-info {
+	padding-top: 10px;
+}
